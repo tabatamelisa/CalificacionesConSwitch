@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\22-09\CalificacionesConSwitch\CalificacionesConSwitch\bin\Debug\CalificacionesConSwitch.exe.config
+C:\Users\Usuario\Desktop\22-09\CalificacionesConSwitch\CalificacionesConSwitch\bin\Debug\CalificacionesConSwitch.exe
+C:\Users\Usuario\Desktop\22-09\CalificacionesConSwitch\CalificacionesConSwitch\bin\Debug\CalificacionesConSwitch.pdb
+C:\Users\Usuario\Desktop\22-09\CalificacionesConSwitch\CalificacionesConSwitch\obj\Debug\CalificacionesConSwitch.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\22-09\CalificacionesConSwitch\CalificacionesConSwitch\obj\Debug\CalificacionesConSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\22-09\CalificacionesConSwitch\CalificacionesConSwitch\obj\Debug\CalificacionesConSwitch.exe
+C:\Users\Usuario\Desktop\22-09\CalificacionesConSwitch\CalificacionesConSwitch\obj\Debug\CalificacionesConSwitch.pdb
