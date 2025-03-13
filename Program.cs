@@ -11,7 +11,7 @@ namespace CalificacionesConSwitch
         static void Main(string[] args)
         {
             //Validar la calificación
-            //Andy Garzón
+            //Tabata Vernaza
             int calificacion;
             do
             {
